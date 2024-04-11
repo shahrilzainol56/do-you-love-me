@@ -1,11 +1,8 @@
 # Will you be my valentine?
 
-Demo : https://saurabhnemade.github.io/will-you-be-my-valentine/
+Demo : https://shahrilzainol56.github.io/do-you-love-me
 
 This is a fun project for valentines day to bring smile on face of your special person!!
-
-This project is inspired from
-https://gist.github.com/tnarla/0c09a11fea366145ba684fe6ebf578c5 & https://www.tiktok.com/@mewtru/video/7331131143112166698
 
 # How to start
 ```
@@ -24,4 +21,4 @@ pnpm run dev
 pnpm run deploy
 ```
 
-Made with ❤️ in Berlin!
+Made with ❤️ for Jeslin!
